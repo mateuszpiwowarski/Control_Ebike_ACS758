@@ -1,0 +1,4 @@
+../Core/Src/acs758.c:13:6:ACS7XX_Init_Default	1
+../Core/Src/acs758.c:37:6:ACS7XX_Calibrate	2
+../Core/Src/acs758.c:56:6:ACS7XX_InstantCurrent	2
+../Core/Src/acs758.c:80:6:ACS7XX_ResetCounters	1
